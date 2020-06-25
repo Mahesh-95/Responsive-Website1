@@ -375,7 +375,7 @@ h4.team-member-designation{
 }
 
 .aboutus{
-    background: url('/images/aboutus.jpg') no-repeat left;
+    background: url('../images/aboutus.jpg') no-repeat left;
     background-size: 60%;
     background-color: white;
     overflow: hidden;
